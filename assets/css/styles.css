@@ -547,7 +547,7 @@ img {
   font-weight: var(--font-medium);
 }
 
-.qualification__subtitle {
+.qualification__subtitle{
   display: inline-block;
   font-size: var(--small-font-size);
   margin-bottom: var(--mb-1);
@@ -574,14 +574,20 @@ img {
   transform: translate(6px, -7px);
 }
 
-.qualification [data-content]{
+.qualification.content [data-content]{
   display: none;
 }
 
 .qualification__active [data-content]{
-  display: block;
+  display: inline-block;
+  color: var(--first-color);
 }
 
+.qualification__button.qualification__active{
+  color: var(--first-color);
+}
+
+/*não foi possível por enquanto deixar as qualificações dinamica, ou seja, apertar em educação e aparecer apenas as coisas de educação*/
 
 /*==================== SERVICES ====================*/
 
