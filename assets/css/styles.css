@@ -1060,7 +1060,7 @@ img {
     width: 460px;
   }
 
-  .contact__inputs{
+  .contacts__inputs{
     grid-template-columns: repeat(2, 1fr);
   }
 
