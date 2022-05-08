@@ -1,7 +1,7 @@
 # Portfolio - Hellimateas
 ## Site Portfolio criado para demonstrar o aprendizado de html, css e javascript
 <p> 
-  O site foi dividido em algumas seções:
+  O site foi dividido,com o link <a href="https://hellimateas.github.io/portfolio/">hellimateas.github.io/portfolio</a> em algumas seções:
   <ul>
     <li>header
     <li>main
