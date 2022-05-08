@@ -20,4 +20,16 @@
   </ul>
   
 </p>
-### header
+
+## Tecnologias utilizadas
+  <ul>
+    <li> HTML
+    <li> CSS
+    <li> JavaScript
+  </ul>
+  
+## Utilidades
+
+<p>
+  Este será o repositório oficial, nele estará os links para outros repositórios e trabalhos desenvolvidos por mim. Assim como, contato, experiência e mais sobre mim.
+</p>
