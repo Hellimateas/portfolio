@@ -1,7 +1,7 @@
 # Portfolio - Hellimateas
-## Site Portfolio criado para demonstrar o aprendizado de html, css e javascript
+## Site <a href="https://hellimateas.github.io/portfolio/"  target="_blank" rel="noopener noreferrer">Portfolio</a> criado para demonstrar o aprendizado de html, css e javascript
 <p> 
-  O site foi dividido,com o link <a href="https://hellimateas.github.io/portfolio/"  target="_blank" rel="noopener noreferrer">hellimateas.github.io/portfolio</a> em algumas seções:
+  O site foi dividido em algumas seções:
   <ul>
     <li>header
     <li>main
@@ -33,3 +33,5 @@
 <p>
   Este será o repositório oficial, nele estará os links para outros repositórios e trabalhos desenvolvidos por mim. Assim como, contato, experiência e mais sobre mim.
 </p>
+
+Este portfólio com o link <https://hellimateas.github.io/portfolio/> é onde está hospedado.
