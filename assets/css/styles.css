@@ -398,6 +398,10 @@ img {
   margin-bottom: var(--mb-2-5);
 }
 
+.about__description a {
+  color: var(--first-color);
+}
+
 .about__info {
   display: flex;
   justify-content: space-evenly;
@@ -849,15 +853,15 @@ img {
     gap: 0.5rem;
   }
 
-  .qualificatio__box-responsive{
+  .qualificatio__box-responsive {
     width: 120px;
   }
 
-  .uil-angle-left-b{
+  .uil-angle-left-b {
     transform: translateX(-10px);
   }
 
-  .uil-angle-right-b{
+  .uil-angle-right-b {
     transform: translateX(10px);
   }
   .services__container {
